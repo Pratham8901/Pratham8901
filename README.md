@@ -9,6 +9,9 @@
 
 [![Financial Econometrics](https://img.shields.io/badge/Explore-Financial%20Econometrics%20Portfolio-255aa8?style=for-the-badge)](https://github.com/Pratham8901/financial-econometrics-rmit)
 
+
+[![Fixed Income Securities](https://img.shields.io/badge/Explore-Fixed%20Income%20Portfolio-5b4caa?style=for-the-badge)](https://github.com/Pratham8901/fixed-income-securities-credit-analysis-rmit)
+
 </div>
 
 ---
@@ -40,6 +43,16 @@ I am building a career in finance by combining **investment decision-making, fin
 
 *The first project uses Tesla/NVIDIA; later work switches to Tesla/Coca-Cola, which is disclosed as a change from the original assessment brief. All three projects are individual coursework-derived analyses with **post-submission AI-assisted portfolio documentation**, separate from the original submitted work. This repository remains private pending rights review; the linked case studies are currently visible only to authorised GitHub users.*
 
+### [Fixed Income Securities & Credit Analysis — RMIT BAFI1065](https://github.com/Pratham8901/fixed-income-securities-credit-analysis-rmit)
+
+| Case study | Investment question | Techniques |
+|---|---|---|
+| [01 · Australian Government Bond Valuation & Portfolio Risk](https://github.com/Pratham8901/fixed-income-securities-credit-analysis-rmit/tree/main/assessment-1-australian-treasury-bonds) | How do higher yields affect government bond prices, duration, convexity and bond portfolio returns? | Yield curve · accrued interest · clean/dirty price · modified duration · convexity · holding-period returns |
+
+The post-submission portfolio reconstruction includes a Python valuation model, tested against the underlying assignment workbook, plus a transparent audit of source and maturity-selection limitations.
+
+*This repository is currently private; GitHub visitors need authorisation to view it. The original coursework submission and university datasets are not republished.*
+
 ## Finance and analytics toolkit
 
 | Finance | Data & technical | Communication |
@@ -51,7 +64,6 @@ I am building a career in finance by combining **investment decision-making, fin
 
 ## Additional projects
 
-- **Australian bond portfolio analysis:** fixed-income performance, benchmark comparisons and credit/risk analytics — portfolio documentation being prepared.
 - **[OpenCV face detection](https://github.com/Pratham8901/Face-Detection-system-using-AI):** earlier technical learning project (private).
 
 ## Career direction
