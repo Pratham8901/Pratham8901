@@ -7,6 +7,8 @@
 
 [![Corporate Finance Portfolio](https://img.shields.io/badge/Explore-Corporate%20Finance%20Portfolio-147d84?style=for-the-badge)](https://github.com/Pratham8901/corporate-financial-management-project-valuation)
 
+[![Financial Econometrics](https://img.shields.io/badge/Explore-Financial%20Econometrics%20Portfolio-255aa8?style=for-the-badge)](https://github.com/Pratham8901/financial-econometrics-rmit)
+
 </div>
 
 ---
@@ -28,6 +30,16 @@ I am building a career in finance by combining **investment decision-making, fin
 
 *Both studies originate from group coursework. The portfolio pages identify collaborative contributions, and where applicable, subsequently produced AI-assisted code and documentation. Restricted inputs and original submissions are not republished.*
 
+### [Financial Econometrics — RMIT ECON1195](https://github.com/Pratham8901/financial-econometrics-rmit)
+
+| Case study | Research question | Techniques |
+|---|---|---|
+| [01 · Tesla vs NVIDIA: Market Efficiency & Factor Exposure](https://github.com/Pratham8901/financial-econometrics-rmit/tree/main/assessment-1-tesla-nvidia) | Are daily equity returns predictable, and which systematic risk factors explain them? | Return diagnostics · random-walk tests · CAPM · Fama–French FF3 |
+| [02 · Tesla vs Coca-Cola: Return & Volatility Models](https://github.com/Pratham8901/financial-econometrics-rmit/tree/main/assessment-2-tesla-coca-cola) | Which ARMA/ARIMA and GARCH specifications best capture daily mean and volatility? | ACF/PACF · ARIMA · ARCH · GARCH · GJR-GARCH |
+| [03 · Investment Fund Analysis & 2025 Evaluation](https://github.com/Pratham8901/financial-econometrics-rmit/tree/main/assessment-3-portfolio-investment-analysis) | How would a pre-2025 minimum-variance Tesla–Coca-Cola allocation perform in 2025? | Portfolio covariance · conditional VaR · VAR/Granger · out-of-sample evaluation |
+
+*The first project uses Tesla/NVIDIA; later work switches to Tesla/Coca-Cola, which is disclosed as a change from the original assessment brief. All three projects are individual coursework-derived analyses with **post-submission AI-assisted portfolio documentation**, separate from the original submitted work. This repository remains private pending rights review; the linked case studies are currently visible only to authorised GitHub users.*
+
 ## Finance and analytics toolkit
 
 | Finance | Data & technical | Communication |
@@ -39,7 +51,6 @@ I am building a career in finance by combining **investment decision-making, fin
 
 ## Additional projects
 
-- **Equity-investment research:** financial time-series methods, comparative stock analysis and investment decisions — portfolio documentation being prepared.
 - **Australian bond portfolio analysis:** fixed-income performance, benchmark comparisons and credit/risk analytics — portfolio documentation being prepared.
 - **[OpenCV face detection](https://github.com/Pratham8901/Face-Detection-system-using-AI):** earlier technical learning project (private).
 
