@@ -49,8 +49,9 @@ I am building a career in finance by combining **investment decision-making, fin
 |---|---|---|
 | [01 · Australian Government Bond Valuation & Portfolio Risk](https://github.com/Pratham8901/fixed-income-securities-credit-analysis-rmit/tree/main/assessment-1-australian-treasury-bonds) | How do higher yields affect government bond prices, duration, convexity and bond portfolio returns? | Yield curve · accrued interest · clean/dirty price · modified duration · convexity · holding-period returns |
 | [02 · Australian Yield, Spot & Forward Curves](https://github.com/Pratham8901/fixed-income-securities-credit-analysis-rmit/tree/main/assessment-2-term-structure-and-forward-rates) | Did January 2026 forwards anticipate July spot rates, and what drives cross-border bond risk? | Discount-factor bootstrapping · forward-rate tests · term-structure theory · Westpac credit case |
+| [03 · Benchmark Tracking & Liability Immunisation](https://github.com/Pratham8901/fixed-income-securities-credit-analysis-rmit/tree/main/assessment-3-tracking-immunisation-credit) | How does an Australian bond portfolio track IYLD, match a five-year liability and manage issuer credit risk? | Tracking error · Macaulay duration · stress testing · bank and corporate credit ratios |
 
-The post-submission portfolio reconstruction includes a Python valuation model, tested against the underlying assignment workbook, plus a transparent audit of source and maturity-selection limitations.
+The coursework-derived portfolio includes separately documented Python valuation and verification tools, source audits and post-submission charts. Methods, modelling limits and original contributions are distinguished in each case study.
 
 *This repository is currently private; GitHub visitors need authorisation to view it. The original coursework submission and university datasets are not republished.*
 
