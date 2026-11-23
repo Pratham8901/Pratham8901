@@ -1,21 +1,19 @@
 # Pratham Kurele
 
-I'm a Master of Finance student at RMIT University in Melbourne, interested in graduate analyst roles in corporate finance, investment research and risk. I use Excel, R and Python to examine decisions such as how much a buyer can pay or how closely a bond portfolio tracks its benchmark.
+I’m a Master of Finance student at RMIT University in Melbourne, interested in graduate analyst roles in corporate finance, investment research and risk. My coursework uses Excel for valuation and fixed income, and R for portfolio and time-series analysis.
 
-## Selected finance projects
+## Individual finance projects
 
-| Project | What the analysis found |
-|---|---|
-| **[NovaThera Pharmaceuticals · Venture capital exit](https://github.com/Pratham8901/corporate-financial-management-project-valuation/tree/main/assessment-3-novathera-exit)** | In my individual case study, a sale at A$880m enterprise value would return A$227.5m to the fund. An A$95m primary IPO would finance growth but leave the fund invested. |
-| **[Texas Instruments · Cost of capital](https://github.com/Pratham8901/corporate-financial-management-project-valuation/tree/main/assessment-2-texas-instruments)** | Our team's September 2026 estimate was 12.25%. Removing one influential month from the equity beta regression lowered it to 10.43%, which changed how we judged the planning hurdle rate. |
-| **[Subscription platform · Investment valuation](https://github.com/Pratham8901/corporate-financial-management-project-valuation/tree/main/assessment-1-project-valuation)** | Our team modelled expansion after strong demand. That flexibility lifted expected net present value from −$16.94m to +$5.91m in the case. |
+| Project | Decision or finding |
+| --- | --- |
+| [Venture capital exit for NovaThera](https://github.com/Pratham8901/corporate-financial-management-project-valuation/tree/main/assessment-3-novathera-exit) | I recommended a strategic sale in this case. At A$880m enterprise value, the fund would receive A$227.5m in cash. A primary IPO would leave the fund holding shares. |
+| [Portfolio allocation for Tesla and Coca-Cola](https://github.com/Pratham8901/financial-econometrics-rmit/tree/main/assessment-3-portfolio-investment-analysis) | For a simulated A$1.5m mandate, I allocated 4.4% to Tesla and 95.6% to Coca-Cola. The case includes the R code I used to estimate the portfolio’s downside risk. |
+| [How Tesla and Coca-Cola respond to shocks](https://github.com/Pratham8901/financial-econometrics-rmit/tree/main/assessment-2-tesla-coca-cola) | My volatility models found that negative shocks had a larger effect than positive shocks of the same size for Coca-Cola. The report’s news impact curves show the difference. |
 
-[Run the exit comparison in Python](https://github.com/Pratham8901/corporate-financial-management-project-valuation/blob/main/scripts/compare_exit_routes.py) · [Explore the corporate finance portfolio](https://github.com/Pratham8901/corporate-financial-management-project-valuation)
+## Team project
 
-## Portfolio risk and econometrics
+For our [Texas Instruments cost-of-capital study](https://github.com/Pratham8901/corporate-financial-management-project-valuation/tree/main/assessment-2-texas-instruments), we tested how one unusually strong month affected the estimate. Excluding April lowered September’s cost of capital from 12.25% to 10.43%. Our team recommended an 11% planning rate.
 
-**Fixed income.** I priced Australian Treasury bonds, checked January forward rates against July spot rates, and evaluated how a six-bond portfolio tracked the iShares Yield Plus ETF. A separate duration calculation examined how to match a five-year liability.
+My fixed-income coursework also covers Australian Treasury bond valuation, forward-rate forecasting and matching a bond portfolio to a five-year liability.
 
-**Financial econometrics.** I compared Tesla and NVIDIA's exposure to equity risk factors, modelled Tesla and Coca-Cola return volatility in R, and tested a minimum-variance Tesla–Coca-Cola allocation on 2025 prices.
-
-Each public case identifies the underlying individual or team work and the post-submission, AI-assisted portfolio materials.
+[All corporate finance projects](https://github.com/Pratham8901/corporate-financial-management-project-valuation) · [All financial econometrics projects](https://github.com/Pratham8901/financial-econometrics-rmit)
